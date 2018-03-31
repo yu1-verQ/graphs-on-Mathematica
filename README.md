@@ -1,2 +1,2 @@
 # graphs-on-Mathematica
-This repository has the Mathematica notebooks which make a graph.
+This repository has a Mathematica notebook which make graphs.
