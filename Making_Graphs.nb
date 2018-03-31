@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     15601,        358]
-NotebookOptionsPosition[     14858,        326]
-NotebookOutlinePosition[     15382,        347]
-CellTagsIndexPosition[     15339,        344]
+NotebookDataLength[     15673,        359]
+NotebookOptionsPosition[     14930,        327]
+NotebookOutlinePosition[     15454,        348]
+CellTagsIndexPosition[     15411,        345]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -63,7 +63,7 @@ Cell[BoxData[{
   RowBox[{"(*", 
    RowBox[{
    "The", " ", "free", " ", "fall", " ", "on", " ", "the", " ", "Moon"}], 
-   "*)"}]}], "\[IndentingNewLine]", 
+   "*)"}], "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
  RowBox[{"Plot", "[", 
   RowBox[{
    RowBox[{"{", 
@@ -137,7 +137,8 @@ Cell[BoxData[{
    3.7314609140159216`*^9, 3.73146094684554*^9}, {3.731461013076887*^9, 
    3.7314610674031334`*^9}, {3.73146129717575*^9, 3.731461322954319*^9}, {
    3.731461425941184*^9, 3.731461464143958*^9}, {3.7314624745178814`*^9, 
-   3.731462513263467*^9}, {3.7314640127817936`*^9, 3.731464016313447*^9}}],
+   3.731462513263467*^9}, {3.7314640127817936`*^9, 3.731464016313447*^9}, 
+   3.7314650575636096`*^9}],
 
 Cell[BoxData[
  GraphicsBox[{{{}, {}, 
@@ -199,7 +200,7 @@ PjRSfa6jlfmJwqBB8HnxYBpJUNsRYzVOwaO7aDyMSSO+gym2clwKnn8fLJwO
 o5FNFp4D9dMU/u0Tk+iNopFF/D3ZsbMUyJxivXEMjbxj/eHu8J2Cwvniioo4
 Gql1z9qq8ZPCRfuy7xsTaCRRdjmPoijsS1eLTkqikf8BJzi0Ow==
        "]]},
-     Annotation[#, "Charting`Private`Tag$1047#1"]& ], 
+     Annotation[#, "Charting`Private`Tag$1910#1"]& ], 
     TagBox[
      {RGBColor[0, 1, 0], Thickness[0.01], Opacity[1.], 
       Dashing[{Small, Small}], LineBox[CompressedData["
@@ -259,7 +260,7 @@ oZpKMDdph5oOk3i9pjDlZR2VuMCNsVAYIzE8ultqWzOVUDngxmFNknh5M3vt
 kQ4qIbigNTlshoQuwazs+kolvuXvcLX/TYJjNlrrwqUSpa5JmzXmSCQVFG2b
 6acST+RFpkiShP/ZX6IBQ1TiP4cIvso=
        "]]},
-     Annotation[#, "Charting`Private`Tag$1047#2"]& ]}, {}, {}},
+     Annotation[#, "Charting`Private`Tag$1910#2"]& ]}, {}, {}},
   AspectRatio->1,
   Axes->{True, True},
   AxesLabel->{None, None},
@@ -319,7 +320,7 @@ kQ4qIbigNTlshoQuwazs+kolvuXvcLX/TYJjNlrrwqUSpa5JmzXmSCQVFG2b
    3.731460824358323*^9, {3.7314609340160456`*^9, 3.7314609479191165`*^9}, {
    3.731461029531767*^9, 3.7314610679500666`*^9}, {3.73146130979644*^9, 
    3.731461323313504*^9}, 3.7314614708790393`*^9, {3.731462520873667*^9, 
-   3.73146254579982*^9}, 3.7314640364249344`*^9}]
+   3.73146254579982*^9}, 3.7314640364249344`*^9, 3.73146506093649*^9}]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
@@ -348,15 +349,15 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 110, 1, 30, "Input"],
-Cell[693, 25, 97, 1, 63, "Output"]
+Cell[693, 25, 97, 1, 30, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[827, 31, 95, 1, 101, "Title"],
 Cell[CellGroupData[{
 Cell[947, 36, 91, 1, 70, "Section"],
 Cell[CellGroupData[{
-Cell[1063, 41, 4019, 98, 316, "Input"],
-Cell[5085, 141, 9733, 180, 365, "Output"]
+Cell[1063, 41, 4070, 99, 335, "Input"],
+Cell[5136, 142, 9754, 180, 398, "Output"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
